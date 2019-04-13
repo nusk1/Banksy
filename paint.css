@@ -1,0 +1,19 @@
+
+
+#a{width:200px; height:100px;-webkit-transition:width 2s,height 4s; transition:width 2s,height 4s; }
+#a:hover{width:230px; height:170px; }
+#d{ color:black; font-size:22px; font-family:Verdana; }
+#a{width:200px; height:100px; -webkit-transition:width 2s,height 4s; transition:width 2s,height 4s; }
+#a:hover{width:230px; height:170px; background-image:url(2.jpg); }
+#c{width:200px; height:100px; -webkit-transition:width 2s,height 4s; transition:width 2s,height 4s; }
+#c:hover{width:230px; height:170px; background-image:url(banksy.jpg); }
+#e{width:200px; height:100px; -webkit-transition:width 2s,height 4s; transition:width 2s,height 4s; }
+#e:hover{width:230px; height:170px; background-image:url(banksy1.jpg); }
+#f{width:200px; height:100px; -webkit-transition:width 2s,height 4s; transition:width 2s,height 4s; }
+#f:hover{width:230px; height:170px; background-image:url(banksy1.jpg); }
+#g{width:200px; height:100px; -webkit-transition:width 2s,height 4s; transition:width 2s,height 4s; }
+#g:hover{width:230px; height:170px; background-image:url(banksy3.jpg); }
+#h{ color:black; font-size:22px; font-family:Verdana; }
+#i{ color:black; font-size:22px; font-family:Verdana; }
+#j{ color:black; font-size:22px; font-family:Verdana; }
+#k{color:black; font-size:22px; font-family:Verdana;margin-left:20px;}
